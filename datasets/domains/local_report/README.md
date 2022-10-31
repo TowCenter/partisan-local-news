@@ -1,0 +1,2 @@
+- [20221007: Axios: Democrats' swing-state local news ploy](https://www.axios.com/2022/10/06/democrats-local-news-david-brock)
+- [20221014: Axios: National Democrats mimic news sites to influence voters in Colorado](https://www.axios.com/local/denver/2022/10/14/democrats-local-news-websites-colorado)

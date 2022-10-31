@@ -1,0 +1,3 @@
+- [20180430: Politico: Baby Breitbarts to pop up across the country?](https://www.politico.com/story/2018/04/30/breitbart-tennessee-fake-news-560670)
+- [20190304: Snopes: Hiding in Plain Sight: PAC-Connected Activists Set Up ‘Local News’ Outlets](https://www.snopes.com/news/2019/03/04/activists-setup-local-news-sites/)
+- [20210702: NPR: How Pro-Trump Local News Sites Keep Pushing 2020 Election Misinformation](https://www.npr.org/2021/07/02/1011916687/how-pro-trump-local-news-sites-keep-pushing-2020-election-misinformation)

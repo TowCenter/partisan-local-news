@@ -1,0 +1,2 @@
+- [20220920: Newsguard: Just in time for the midterms: New Entry Joins "Pink Slime" Pseudo-News Sweepstakes](https://www.newsguardtech.com/special-reports/american-independent-pink-slime-network/)
+- [20221007: Axios: Democrats' swing-state local news ploy](https://www.axios.com/2022/10/06/democrats-local-news-david-brock)

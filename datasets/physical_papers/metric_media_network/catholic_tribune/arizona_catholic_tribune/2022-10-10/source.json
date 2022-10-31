@@ -1,0 +1,32 @@
+[
+    {
+        "files": [
+            "page-1-top.jpeg"
+        ],
+        "source": "Twitter",
+        "url": "https://archive.ph/byiG6"
+    },
+    {
+        "files": [
+            "page-1-bottom.jpeg"
+        ],
+        "source": "Twitter",
+        "url": "https://archive.ph/agryf"
+    },
+    {
+        "files": [
+            "pages-2-3.jpeg",
+            "pages-4-5.jpeg",
+            "pages-6-7.jpeg",
+        ],
+        "source": "Twitter",
+        "url": "https://archive.ph/wQJMX"
+    },
+    {
+        "files": [
+            "page-8.jpeg"
+        ],
+        "source": "Twitter",
+        "url": "https://archive.ph/wQJMX"
+    }
+]
