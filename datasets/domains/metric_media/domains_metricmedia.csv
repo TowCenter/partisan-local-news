@@ -28,7 +28,6 @@ SE Alaska News,Alaska,sealaskanews.com,Metric Media Network,Metric Media
 SW Alaska News,Alaska,swalaskanews.com,Metric Media Network,Metric Media
 AK Business Daily,Alaska,akbusinessdaily.com,Metric Media Network,Metro Business Network
 Angola Business Daily,Angola,angolabusinessdaily.com,Metric Media Network,Metro Business Network
-Natural State Business News,AR,naturalstatebusinessnews.com,Metric Media Network,Metric Media
 Arizona Catholic Tribune,Arizona,azcatholictribune.com,Metric Media Network,Franklin Archer
 Coconino News,Arizona,coconinonews.com,Metric Media Network,Metric Media
 East Arizona News,Arizona,eastarizonanews.com,Metric Media Network,Metric Media
@@ -50,17 +49,18 @@ AZ Business Daily,Arizona,azbusinessdaily.com,Metric Media Network,Metro Busines
 Benton Times,Arkansas,bentontimes.com,Metric Media Network,Metric Media
 East Little Rock Times,Arkansas,eastlittlerocktimes.com,Metric Media Network,Metric Media
 Fayetteville Standard,Arkansas,fayettevillestandard.com,Metric Media Network,Metric Media
+Fort Smith Times,Arkansas,fortsmithtimes.com,Metric Media Network,Metric Media
 Hot Springs Times,Arkansas,hotspringstimes.com,Metric Media Network,Metric Media
 Jonesboro Times,Arkansas,jonesborotimes.com,Metric Media Network,Metric Media
 Lowe Delta News,Arkansas,lowedeltanews.com,Metric Media Network,Metric Media
 NC Arkansas News,Arkansas,ncarkansasnews.com,Metric Media Network,Metric Media
 NW Arkansas News,Arkansas,nwarkansasnews.com,Metric Media Network,Metric Media
+Natural State Business News,Arkansas,naturalstatebusinessnews.com,Metric Media Network,Metric Media
 Natural State News,Arkansas,naturalstatenews.com,Metric Media Network,Metric Media
 North Little Rock Times,Arkansas,northlittlerocktimes.com,Metric Media Network,Metric Media
 Pulaski Times,Arkansas,pulaskitimes.com,Metric Media Network,Metric Media
 SW Arkansas Times,Arkansas,swarkansastimes.com,Metric Media Network,Metric Media
 Upper Delta News,Arkansas,upperdeltanews.com,Metric Media Network,Metric Media
-Fort Smith Times,Arkansas,fortsmithtimes.com,Metric Media Network,Metric Media
 AR Business Daily,Arkansas,arbusinessdaily.com,Metric Media Network,Metro Business Network
 Natural State Business News,Arkansas,arbiztoday.com,Metric Media Network,Metro Business Network
 The Desert Mag,California,thedesertmag.com,Metric Media Network,GateHouse Media
@@ -81,9 +81,9 @@ Gold Country Today,California,goldcountrytoday.com,Metric Media Network,Metric M
 Golden State Today,California,goldenstatetoday.com,Metric Media Network,Metric Media
 Imperial CA News,California,imperialcanews.com,Metric Media Network,Metric Media
 Kern County Times,California,kerncountytimes.com,Metric Media Network,Metric Media
-LAX Leader,California,laxleader.com,Metric Media Network,Metric Media
 Kings County Times,California,kingscountytimes.com,Metric Media Network,Metric Media
 LA Harbor News,California,laharbornews.com,Metric Media Network,Metric Media
+LAX Leader,California,laxleader.com,Metric Media Network,Metric Media
 Lake Tahoe Sun,California,laketahoesun.com,Metric Media Network,Metric Media
 Marin Leader,California,marinleader.com,Metric Media Network,Metric Media
 Merced Times,California,mercedtimes.com,Metric Media Network,Metric Media
@@ -97,6 +97,7 @@ North Inland News,California,northinlandnews.com,Metric Media Network,Metric Med
 North OC Times,California,northoctimes.com,Metric Media Network,Metric Media
 North SFV Today,California,northsfvtoday.com,Metric Media Network,Metric Media
 North SGV News,California,northsgvnews.com,Metric Media Network,Metric Media
+North Sacramento Today,California,northsactoday.com,Metric Media Network,Metric Media
 Oakland Record,California,oaklandrecord.com,Metric Media Network,Metric Media
 Pomona Valley News,California,pomonavalleynews.com,Metric Media Network,Metric Media
 Redding Today,California,reddingtoday.com,Metric Media Network,Metric Media
@@ -109,6 +110,7 @@ SW Riverside News,California,swriversidenews.com,Metric Media Network,Metric Med
 Sacramento Standard,California,sacramentostandard.com,Metric Media Network,Metric Media
 San Diego Record,California,sandiegorecord.com,Metric Media Network,Metric Media
 San Francisco Sun,California,sanfranciscosun.com,Metric Media Network,Metric Media
+San Francisco Sun,California,sanfransun.com,Metric Media Network,Metric Media
 San Joaquin Times,California,sanjoaquintimes.com,Metric Media Network,Metric Media
 San Jose Standard,California,sanjosestandard.com,Metric Media Network,Metric Media
 San Mateo Sun,California,sanmateosun.com,Metric Media Network,Metric Media
@@ -122,6 +124,7 @@ South OC Times,California,southoctimes.com,Metric Media Network,Metric Media
 South SF Bay News,California,southsfbaynews.com,Metric Media Network,Metric Media
 South SFV Today,California,southsfvtoday.com,Metric Media Network,Metric Media
 South SGV News,California,southsgvnews.com,Metric Media Network,Metric Media
+South Sacramento Today,California,southsactoday.com,Metric Media Network,Metric Media
 Stanislaus News,California,stanislausnews.com,Metric Media Network,Metric Media
 Tulare Times,California,tularetimes.com,Metric Media Network,Metric Media
 Verdugos News,California,verdugosnews.com,Metric Media Network,Metric Media
@@ -136,20 +139,17 @@ West SGV News,California,westsgvnews.com,Metric Media Network,Metric Media
 West Ventura News,California,westventuranews.com,Metric Media Network,Metric Media
 Wine Country Times,California,winecountrytimes.com,Metric Media Network,Metric Media
 Yuba-Sutter Times,California,yubasuttertimes.com,Metric Media Network,Metric Media
-North Sacramento Today,California,northsactoday.com,Metric Media Network,Metric Media
-South Sacramento Today,California,southsactoday.com,Metric Media Network,Metric Media
+CA Business Daily,California,cabusinessdaily.com,Metric Media Network,Metro Business Network
+Coachella Valley Times,California,coachellavalleytimes.com,Metric Media Network,Pipeline Advisors
 Northern California Record,California,norcalrecord.com,Metric Media Network,Record
 Southern California Record,California,socalrecord.com,Metric Media Network,Record
-CA Business Daily,California,cabusinessdaily.com,Metric Media Network,Metro Business Network
-San Francisco Sun,California,sanfransun.com,Metric Media Network,Metric Media
-Coachella Valley Times,California,coachellavalleytimes.com,Metric Media Network,Pipeline Advisors
 Toronto Business Daily,Canada,torontobusinessdaily.com,Metric Media Network,Metro Business Network
 Adams County Times,Colorado,adamscountytimes.com,Metric Media Network,Metric Media
 Boulder Leader,Colorado,boulderleader.com,Metric Media Network,Metric Media
 Centennial State News,Colorado,centennialstatenews.com,Metric Media Network,Metric Media
 Central Colorado News,Colorado,centralcoloradonews.com,Metric Media Network,Metric Media
 Denver City Wire,Colorado,denvercitywire.com,Metric Media Network,Metric Media
-West Arapahoe News,Colorado,westarapahoenews.com,Metric Media Network,Metric Media
+East Arapahoe News,Colorado,eastarapahoenews.com,Metric Media Network,Metric Media
 Grand Junction Times,Colorado,grandjunctiontimes.com,Metric Media Network,Metric Media
 Larimer News,Colorado,larimernews.com,Metric Media Network,Metric Media
 NE Colorado News,Colorado,necoloradonews.com,Metric Media Network,Metric Media
@@ -159,7 +159,7 @@ SE Denver News,Colorado,sedenvernews.com,Metric Media Network,Metric Media
 SW Colorado News,Colorado,swcoloradonews.com,Metric Media Network,Metric Media
 South Jefferson County News,Colorado,southjeffconews.com,Metric Media Network,Metric Media
 Springs Times,Colorado,springstimes.com,Metric Media Network,Metric Media
-East Arapahoe News,Colorado,eastarapahoenews.com,Metric Media Network,Metric Media
+West Arapahoe News,Colorado,westarapahoenews.com,Metric Media Network,Metric Media
 CO Business Daily,Colorado,cobusinessdaily.com,Metric Media Network,Metro Business Network
 Bridgeport Times,Connecticut,bridgeporttimes.com,Metric Media Network,Metric Media
 Constitution State News,Connecticut,constitutionstatenews.com,Metric Media Network,Metric Media
@@ -173,13 +173,6 @@ SC Connecticut News,Connecticut,scconnnews.com,Metric Media Network,Metric Media
 SE Connecticut News,Connecticut,seconnnews.com,Metric Media Network,Metric Media
 SW Connecticut News,Connecticut,swconnnews.com,Metric Media Network,Metric Media
 CT Business Daily,Connecticut,ctbusinessdaily.com,Metric Media Network,Metro Business Network
-Maghreb Newswire,continent: Africa,maghrebnewswire.com,Metric Media Network,Local Labs
-Gulf News Journal,continent: Asia,gulfnewsjournal.com,Metric Media Network,Local Labs
-CISTRAN Finance,continent: Eurasia & Afroasia,cistranfinance.com,Metric Media Network,Local Labs
-Latin Business Daily,continent: Latin America,latinbusinessdaily.com,Metric Media Network,Metro Business Network
-Insurance Rate Reporter,Country: US,insuranceratereporter.com,Metric Media Network,Metric Media
-Legal Newsline,Country: US,legalnewsline.com,Metric Media Network,Record
-Flexible Work News,country:US,flexibleworknews.com,Metric Media Network,Metric Media
 First State Times,Delaware,firststatetimes.com,Metric Media Network,Metric Media
 Kent County Today,Delaware,kentcountytoday.com,Metric Media Network,Metric Media
 North New Castle News,Delaware,northnewcastlenews.com,Metric Media Network,Metric Media
@@ -257,6 +250,7 @@ North Gwinnett News,Georgia,northgwinnettnews.com,Metric Media Network,Metric Me
 Peach Tree Times,Georgia,peachtreetimes.com,Metric Media Network,Metric Media
 Rome Reporter,Georgia,romereporter.com,Metric Media Network,Metric Media
 SE Atlanta News,Georgia,seatlantanews.com,Metric Media Network,Metric Media
+SE Georgia News,Georgia,segeorgianews.com,Metric Media Network,Metric Media
 SW Georgia News,Georgia,swgeorgianews.com,Metric Media Network,Metric Media
 Savannah Standard,Georgia,savannahstandard.com,Metric Media Network,Metric Media
 South Atlanta News,Georgia,southatlantanews.com,Metric Media Network,Metric Media
@@ -266,17 +260,16 @@ South Gwinnett News,Georgia,southgwinnettnews.com,Metric Media Network,Metric Me
 WC Georgia News,Georgia,wcgeorgianews.com,Metric Media Network,Metric Media
 Warner Robins Today,Georgia,warnerrobinstoday.com,Metric Media Network,Metric Media
 West Atlanta News,Georgia,westatlantanews.com,Metric Media Network,Metric Media
-SE Georgia News,Georgia,segeorgianews.com,Metric Media Network,Metric Media
 GA Business Daily,Georgia,gabusinessdaily.com,Metric Media Network,Metro Business Network
 Globe Banner,Global,globebanner.com,Metric Media Network,Metric Media
 Guatemala Business Daily,Guatemala,guatemalabusinessdaily.com,Metric Media Network,Metro Business Network
 Aloha State News,Hawaii,alohastatenews.com,Metric Media Network,Metric Media
+Big Island Times,Hawaii,ohanatimes.com,Metric Media Network,Metric Media
 Big Island Times,Hawaii,bigislandtimes.com,Metric Media Network,Metric Media
 Honolulu Reporter,Hawaii,honolulureporter.com,Metric Media Network,Metric Media
 Kauai Sun,Hawaii,kauaisun.com,Metric Media Network,Metric Media
 Maui Reporter,Hawaii,mauireporter.com,Metric Media Network,Metric Media
 HI Business Daily,Hawaii,hibusinessdaily.com,Metric Media Network,Metro Business Network
-Big Island Times,Hawaii,ohanatimes.com,Metric Media Network,Metric Media
 Ada Reporter,Idaho,adareporter.com,Metric Media Network,Metric Media
 Boise City Wire,Idaho,boisecitywire.com,Metric Media Network,Metric Media
 CDA Reporter,Idaho,cdareporter.com,Metric Media Network,Metric Media
@@ -288,44 +281,46 @@ North Idaho Times,Idaho,northidahotimes.com,Metric Media Network,Metric Media
 Pocatello Times,Idaho,pocatellotimes.com,Metric Media Network,Metric Media
 Treasure Valley Times,Idaho,treasurevalleytimes.com,Metric Media Network,Metric Media
 ID Business Daily,Idaho,idbusinessdaily.com,Metric Media Network,Metro Business Network
-North Egypt News,Illinois,northegyptnews.com,Metric Media Network,LGIS
-Quincy Reporter,Illinois,quincyreporter.com,Metric Media Network,LGIS
-Prairie State Wire,Illinois,prairiestatewire.com,Metric Media Network,LGIS
-Metro East Sun,Illinois,metroeastsun.com,Metric Media Network,LGIS
-Kendall County Times,Illinois,kendallcountytimes.com,Metric Media Network,LGIS
-Sangamon Sun,Illinois,sangamonsun.com,Metric Media Network,LGIS
-SIL News,Illinois,silnews.com,Metric Media Network,LGIS
-South Central Reporter,Illinois,southcentralreporter.com,Metric Media Network,LGIS
-SE Illinois News,Illinois,seillinoisnews.com,Metric Media Network,LGIS
-DuPage Policy Journal,Illinois,dupagepolicyjournal.com,Metric Media Network,LGIS
-Chicago City Wire,Illinois,chicagocitywire.com,Metric Media Network,LGIS
-East Central Reporter,Illinois,eastcentralreporter.com,Metric Media Network,LGIS
-DeKalb Times,Illinois,dekalbtimes.com,Metric Media Network,LGIS
-Illinois Valley Times,Illinois,illinoisvalleytimes.com,Metric Media Network,LGIS
-Grundy Reporter,Illinois,grundyreporter.com,Metric Media Network,LGIS
-Kane County Reporter,Illinois,kanecountyreporter.com,Metric Media Network,LGIS
-Galesburg Reporter,Illinois,galesburgreporter.com,Metric Media Network,LGIS
 Salem Newswire,Illinois,salemnewswire.com,Metric Media Network,?
+West Loop Today,Illinois,westlooptoday.com,Metric Media Network,Franklin Archer
 Carbondale Reporter,Illinois,carbondalereporter.com,Metric Media Network,LGIS
-Kankakee Times,Illinois,kankakeetimes.com,Metric Media Network,LGIS
 Chambana Sun,Illinois,chambanasun.com,Metric Media Network,LGIS
+Chicago City Wire,Illinois,chicagocitywire.com,Metric Media Network,LGIS
+DeKalb Times,Illinois,dekalbtimes.com,Metric Media Network,LGIS
+DuPage Policy Journal,Illinois,dupagepolicyjournal.com,Metric Media Network,LGIS
+East Central Reporter,Illinois,eastcentralreporter.com,Metric Media Network,LGIS
+Galesburg Reporter,Illinois,galesburgreporter.com,Metric Media Network,LGIS
+Grundy Reporter,Illinois,grundyreporter.com,Metric Media Network,LGIS
+Illinois Valley Times,Illinois,illinoisvalleytimes.com,Metric Media Network,LGIS
+Kane County Reporter,Illinois,kanecountyreporter.com,Metric Media Network,LGIS
+Kankakee Times,Illinois,kankakeetimes.com,Metric Media Network,LGIS
+Kendall County Times,Illinois,kendallcountytimes.com,Metric Media Network,LGIS
+Lake County Gazette,Illinois,lakecountygazette.com,Metric Media Network,LGIS
+Macon Reporter,Illinois,maconreporter.com,Metric Media Network,LGIS
+McClean County Times,Illinois,mcleancountytimes.com,Metric Media Network,LGIS
+McHenry Times,Illinois,mchenrytimes.com,Metric Media Network,LGIS
+Metro East Sun,Illinois,metroeastsun.com,Metric Media Network,LGIS
+NW Illinois News,Illinois,nwillinoisnews.com,Metric Media Network,LGIS
+North Cook News,Illinois,northcooknews.com,Metric Media Network,LGIS
+North Egypt News,Illinois,northegyptnews.com,Metric Media Network,LGIS
+Peoria Standard,Illinois,peoriastandard.com,Metric Media Network,LGIS
+Prairie State Wire,Illinois,prairiestatewire.com,Metric Media Network,LGIS
+Quincy Reporter,Illinois,quincyreporter.com,Metric Media Network,LGIS
+Rock Island Today,Illinois,rockislandtoday.com,Metric Media Network,LGIS
+Rockford Sun,Illinois,rockfordsun.com,Metric Media Network,LGIS
+SE Illinois News,Illinois,seillinoisnews.com,Metric Media Network,LGIS
+SIL News,Illinois,silnews.com,Metric Media Network,LGIS
+SW Illinois News,Illinois,swillinoisnews.com,Metric Media Network,LGIS
+Sangamon Sun,Illinois,sangamonsun.com,Metric Media Network,LGIS
+South Central Reporter,Illinois,southcentralreporter.com,Metric Media Network,LGIS
 South Cook News,Illinois,southcooknews.com,Metric Media Network,LGIS
 West Central Reporter,Illinois,westcentralreporter.com,Metric Media Network,LGIS
+West Cook News,Illinois,westcooknews.com,Metric Media Network,LGIS
+Will County Gazette,Illinois,willcountygazette.com,Metric Media Network,LGIS
 Suburban Marquee,Illinois,suburbanmarquee.com,Metric Media Network,Metric Media
+IL Business Daily,Illinois,ilbusinessdaily.com,Metric Media Network,Metro Business Network
 Cook County Record,Illinois,cookcountyrecord.com,Metric Media Network,Record
 Madison Record,Illinois,madisonrecord.com,Metric Media Network,Record
-IL Business Daily,Illinois,ilbusinessdaily.com,Metric Media Network,Metro Business Network
-McClean County Times,Illinois,mcleancountytimes.com,Metric Media Network,LGIS
-Peoria Standard,Illinois,peoriastandard.com,Metric Media Network,LGIS
-Rock Island Today,Illinois,rockislandtoday.com,Metric Media Network,LGIS
-Macon Reporter,Illinois,maconreporter.com,Metric Media Network,LGIS
-North Cook News,Illinois,northcooknews.com,Metric Media Network,LGIS
-Rockford Sun,Illinois,rockfordsun.com,Metric Media Network,LGIS
-NW Illinois News,Illinois,nwillinoisnews.com,Metric Media Network,LGIS
-Lake County Gazette,Illinois,lakecountygazette.com,Metric Media Network,LGIS
-West Cook News,Illinois,westcooknews.com,Metric Media Network,LGIS
-SW Illinois News,Illinois,swillinoisnews.com,Metric Media Network,LGIS
-Will County Gazette,Illinois,willcountygazette.com,Metric Media Network,LGIS
 Anderson Reporter,Indiana,andersonreporter.com,Metric Media Network,Metric Media
 Bloomington Leader,Indiana,bloomingtonleader.com,Metric Media Network,Metric Media
 Columbus Standard,Indiana,columbusstandard.com,Metric Media Network,Metric Media
@@ -373,6 +368,8 @@ WC Iowa News,Iowa,wciowanews.com,Metric Media Network,Metric Media
 Waterloo Times,Iowa,waterlootimes.com,Metric Media Network,Metric Media
 West DSM News,Iowa,westdsmnews.com,Metric Media Network,Metric Media
 IA Business Daily,Iowa,iabusinessdaily.com,Metric Media Network,Metro Business Network
+Kansas Catholic Tribune,Kansas,kscatholictribune.com,Metric Media Network,Franklin Archer
+Linn County Guide,Kansas,linncountyguide.com,Metric Media Network,Local Labs
 EC Kansas News,Kansas,eckansasnews.com,Metric Media Network,Metric Media
 East Wichita Times,Kansas,eastwichitatimes.com,Metric Media Network,Metric Media
 Hutch Today,Kansas,hutchtoday.com,Metric Media Network,Metric Media
@@ -392,8 +389,6 @@ Topeka Sun,Kansas,topekasun.com,Metric Media Network,Metric Media
 Wichita Standard,Kansas,wichitastandard.com,Metric Media Network,Metric Media
 Wyandotte Times,Kansas,wyandottetimes.com,Metric Media Network,Metric Media
 KS Business Daily,Kansas,ksbusinessdaily.com,Metric Media Network,Metro Business Network
-Linn County Guide,Kansas,linncountyguide.com,Metric Media Network,Local Labs
-Kansas Catholic Tribune,Kansas,kscatholictribune.com,Metric Media Network,Franklin Archer
 Bluegrass Times,Kentucky,bluegrasstimes.com,Metric Media Network,Metric Media
 Bowling Green Today,Kentucky,bowlinggreentoday.com,Metric Media Network,Metric Media
 East Kentucky Times,Kentucky,eastkentuckytimes.com,Metric Media Network,Metric Media
@@ -430,6 +425,7 @@ Shreveport Reporter,Louisiana,shreveportreporter.com,Metric Media Network,Metric
 South Louisiana News,Louisiana,southlouisiananews.com,Metric Media Network,Metric Media
 Westbank Louisiana News,Louisiana,westbanklanews.com,Metric Media Network,Metric Media
 LA Business Daily,Louisiana,labusinessdaily.com,Metric Media Network,Metro Business Network
+Louisiana Record,Louisiana,louisianarecord.com,Metric Media Network,Record
 Aroostook News,Maine,aroostooknews.com,Metric Media Network,Metric Media
 Down East Times,Maine,downeasttimes.com,Metric Media Network,Metric Media
 Lewiston Times,Maine,lewistontimes.com,Metric Media Network,Metric Media
@@ -460,73 +456,73 @@ NC Massachusetts News,Massachusetts,ncmassnews.com,Metric Media Network,Metric M
 Norfolk Reporter,Massachusetts,norfolkreporter.com,Metric Media Network,Metric Media
 North Boston News,Massachusetts,northbostonnews.com,Metric Media Network,Metric Media
 Plymouth Reporter,Massachusetts,plymouthreporter.com,Metric Media Network,Metric Media
+Springfield City Wire,Massachusetts,springfieldcitywire.com,Metric Media Network,Metric Media
 Springfield Record,Massachusetts,springfieldrecord.com,Metric Media Network,Metric Media
 West Massachusetts News,Massachusetts,westmassnews.com,Metric Media Network,Metric Media
 MA Business Daily,Massachusetts,mabusinessdaily.com,Metric Media Network,Metro Business Network
-Springfield City Wire,Massachusetts,springfieldcitywire.com,Metric Media Network,Metric Media
 Mexico Business Daily,Mexico,mexicobusinessdaily.com,Metric Media Network,Metro Business Network
+Michigan Catholic Tribune,Michigan,micatholictribune.com,Metric Media Network,Franklin Archer
+Lansing Reporter,Michigan,lansingreporter.com,Metric Media Network,Local Labs
 Ann Arbor Times,Michigan,annarbortimes.com,Metric Media Network,Metric Media
-East Michigan News,Michigan,eastmichigannews.com,Metric Media Network,Metric Media
 Battle Creek Times,Michigan,battlecreektimes.com,Metric Media Network,Metric Media
 Detroit City Wire,Michigan,detroitcitywire.com,Metric Media Network,Metric Media
 Down River Today,Michigan,downrivertoday.com,Metric Media Network,Metric Media
-Holland Reporter,Michigan,hollandreporter.com,Metric Media Network,Metric Media
-Genesee News,Michigan,geneseenews.com,Metric Media Network,Metric Media
-Pontiac Times,Michigan,pontiactimes.com,Metric Media Network,Metric Media
-Muskegon Sun,Michigan,muskegonsun.com,Metric Media Network,Metric Media
-Monroe Review,Michigan,monroereview.com,Metric Media Network,Metric Media
-Lansing Sun,Michigan,lansingsun.com,Metric Media Network,Metric Media
-Novi Times,Michigan,novitimes.com,Metric Media Network,Metric Media
-Kalamazoo Times,Michigan,kalamazootimes.com,Metric Media Network,Metric Media
-North Michigan News,Michigan,northmichigannews.com,Metric Media Network,Metric Media
-North Kent News,Michigan,northkentnews.com,Metric Media Network,Metric Media
-Northwest Wayne News,Michigan,nwwaynenews.com,Metric Media Network,Metric Media
-SE Grand Rapids,Michigan,segrandrapids.com,Metric Media Network,Metric Media
-SE Oakland News,Michigan,seoaklandnews.com,Metric Media Network,Metric Media
-Thumb Reporter,Michigan,thumbreporter.com,Metric Media Network,Metric Media
-The Warren Sun,Michigan,warrensun.com,Metric Media Network,Metric Media
-Waterford Today,Michigan,waterfordtoday.com,Metric Media Network,Metric Media
-West Central Michigan News,Michigan,wcmichigannews.com,Metric Media Network,Metric Media
-UP Gazette,Michigan,upgazette.com,Metric Media Network,Metric Media
-South Michigan News,Michigan,southmichigannews.com,Metric Media Network,Metric Media
-St. Joe-Benton Harbor News,Michigan,stjoebentonharbor.com,Metric Media Network,Metric Media
-St. Clair Today,Michigan,stclairtoday.com,Metric Media Network,Metric Media
-Sturgis-Coldwater News,Michigan,sturgiscoldwaternews.com,Metric Media Network,Metric Media
-Tri-City Sun,Michigan,tricitysun.com,Metric Media Network,Metric Media
-Western Wayne Today,Michigan,westernwaynetoday.com,Metric Media Network,Metric Media
-South Kent News,Michigan,southkentnews.com,Metric Media Network,Metric Media
-MI Business Daily,Michigan,mibusinessdaily.com,Metric Media Network,Metro Business Network
-Michigan Catholic Tribune,Michigan,micatholictribune.com,Metric Media Network,Franklin Archer
-Lansing Reporter,Michigan,lansingreporter.com,Metric Media Network,Local Labs
+East Michigan News,Michigan,eastmichigannews.com,Metric Media Network,Metric Media
 Eastern Wayne Today,Michigan,easternwaynetoday.com,Metric Media Network,Metric Media
-Livingston Today,Michigan,livingstontoday.com,Metric Media Network,Metric Media
-Macomb Today,Michigan,macombtoday.com,Metric Media Network,Metric Media
-MI Capitol News,Michigan,micapitolnews.com,Metric Media Network,Metric Media
-Shelby Review,Michigan,shelbyreview.com,Metric Media Network,Metric Media
+Genesee News,Michigan,geneseenews.com,Metric Media Network,Metric Media
 Grand Rapids Reporter,Michigan,grandrapidsreporter.com,Metric Media Network,Metric Media
 Great Lakes Wire,Michigan,greatlakeswire.com,Metric Media Network,Metric Media
+Holland Reporter,Michigan,hollandreporter.com,Metric Media Network,Metric Media
+Kalamazoo Times,Michigan,kalamazootimes.com,Metric Media Network,Metric Media
+Lansing Sun,Michigan,lansingsun.com,Metric Media Network,Metric Media
+Livingston Today,Michigan,livingstontoday.com,Metric Media Network,Metric Media
+MI Capitol News,Michigan,micapitolnews.com,Metric Media Network,Metric Media
+Macomb Today,Michigan,macombtoday.com,Metric Media Network,Metric Media
+Monroe Review,Michigan,monroereview.com,Metric Media Network,Metric Media
+Muskegon Sun,Michigan,muskegonsun.com,Metric Media Network,Metric Media
+North Kent News,Michigan,northkentnews.com,Metric Media Network,Metric Media
+North Michigan News,Michigan,northmichigannews.com,Metric Media Network,Metric Media
+Northwest Wayne News,Michigan,nwwaynenews.com,Metric Media Network,Metric Media
+Novi Times,Michigan,novitimes.com,Metric Media Network,Metric Media
+Pontiac Times,Michigan,pontiactimes.com,Metric Media Network,Metric Media
+SE Grand Rapids,Michigan,segrandrapids.com,Metric Media Network,Metric Media
+SE Oakland News,Michigan,seoaklandnews.com,Metric Media Network,Metric Media
+Shelby Review,Michigan,shelbyreview.com,Metric Media Network,Metric Media
 Shiawassee Times,Michigan,shiawasseetimes.com,Metric Media Network,Metric Media
-Anoka Times,Minnesota,anokatimes.com,Metric Media Network,Metric Media
-North Hennepin News,Minnesota,northhennepinnews.com,Metric Media Network,Metric Media
-Minnesota State Wire,Minnesota,minnesotastatewire.com,Metric Media Network,Metric Media
-Minneapolis Review,Minnesota,minneapolisreview.com,Metric Media Network,Metric Media
-North Ramsey News,Minnesota,northramseynews.com,Metric Media Network,Metric Media
-NW Twin Cities,Minnesota,nwtwincities.com,Metric Media Network,Metric Media
-SE Twin Cities,Minnesota,setwincities.com,Metric Media Network,Metric Media
-South Hennepin News,Minnesota,southhennepinnews.com,Metric Media Network,Metric Media
-WC Minnesota News,Minnesota,wcminnesotanews.com,Metric Media Network,Metric Media
-St. Cloud Sun,Minnesota,stcloudsun.com,Metric Media Network,Metric Media
-St. Paul Reporter,Minnesota,stpaulreporter.com,Metric Media Network,Metric Media
-SW Minnesota Today,Minnesota,swminnesotatoday.com,Metric Media Network,Metric Media
-MN Business Daily,Minnesota,mnbusinessdaily.com,Metric Media Network,Metro Business Network
+South Kent News,Michigan,southkentnews.com,Metric Media Network,Metric Media
+South Michigan News,Michigan,southmichigannews.com,Metric Media Network,Metric Media
+St. Clair Today,Michigan,stclairtoday.com,Metric Media Network,Metric Media
+St. Joe-Benton Harbor News,Michigan,stjoebentonharbor.com,Metric Media Network,Metric Media
+Sturgis-Coldwater News,Michigan,sturgiscoldwaternews.com,Metric Media Network,Metric Media
+The Warren Sun,Michigan,warrensun.com,Metric Media Network,Metric Media
+Thumb Reporter,Michigan,thumbreporter.com,Metric Media Network,Metric Media
+Tri-City Sun,Michigan,tricitysun.com,Metric Media Network,Metric Media
+UP Gazette,Michigan,upgazette.com,Metric Media Network,Metric Media
+Waterford Today,Michigan,waterfordtoday.com,Metric Media Network,Metric Media
+West Central Michigan News,Michigan,wcmichigannews.com,Metric Media Network,Metric Media
+Western Wayne Today,Michigan,westernwaynetoday.com,Metric Media Network,Metric Media
+MI Business Daily,Michigan,mibusinessdaily.com,Metric Media Network,Metro Business Network
 Minnesota Catholic Tribune,Minnesota,mncatholictribune.com,Metric Media Network,Franklin Archer
-NC Minnesota News,Minnesota,ncminnesotanews.com,Metric Media Network,Metric Media
-East Twin Cities,Minnesota,easttwincities.com,Metric Media Network,Metric Media
+Anoka Times,Minnesota,anokatimes.com,Metric Media Network,Metric Media
 Dakota Times,Minnesota,dakotatimes.com,Metric Media Network,Metric Media
+East Twin Cities,Minnesota,easttwincities.com,Metric Media Network,Metric Media
+Minneapolis Review,Minnesota,minneapolisreview.com,Metric Media Network,Metric Media
+Minnesota State Wire,Minnesota,minnesotastatewire.com,Metric Media Network,Metric Media
+NC Minnesota News,Minnesota,ncminnesotanews.com,Metric Media Network,Metric Media
+NW Minnesota News,Minnesota,nwminnesotanews.com,Metric Media Network,Metric Media
+NW Twin Cities,Minnesota,nwtwincities.com,Metric Media Network,Metric Media
+North Hennepin News,Minnesota,northhennepinnews.com,Metric Media Network,Metric Media
+North Ramsey News,Minnesota,northramseynews.com,Metric Media Network,Metric Media
 SC Minnesota News,Minnesota,scminnesotanews.com,Metric Media Network,Metric Media
 SE Minnesota News,Minnesota,seminnesotanews.com,Metric Media Network,Metric Media
+SE Twin Cities,Minnesota,setwincities.com,Metric Media Network,Metric Media
+SW Minnesota Today,Minnesota,swminnesotatoday.com,Metric Media Network,Metric Media
+South Hennepin News,Minnesota,southhennepinnews.com,Metric Media Network,Metric Media
+St. Cloud Sun,Minnesota,stcloudsun.com,Metric Media Network,Metric Media
+St. Paul Reporter,Minnesota,stpaulreporter.com,Metric Media Network,Metric Media
+WC Minnesota News,Minnesota,wcminnesotanews.com,Metric Media Network,Metric Media
 West Twin Cities,Minnesota,westtwincities.com,Metric Media Network,Metric Media
-NW Minnesota News,Minnesota,nwminnesotanews.com,Metric Media Network,Metric Media
+MN Business Daily,Minnesota,mnbusinessdaily.com,Metric Media Network,Metro Business Network
 EC Mississippi News,Mississippi,ecmissnews.com,Metric Media Network,Metric Media
 GTR Times,Mississippi,gtrtimes.com,Metric Media Network,Metric Media
 Hinds Today,Mississippi,hindstoday.com,Metric Media Network,Metric Media
@@ -548,6 +544,7 @@ Central STL News,Missouri,centralstlnews.com,Metric Media Network,Metric Media
 Clay Reporter,Missouri,clayreporter.com,Metric Media Network,Metric Media
 Columbia News,Missouri,columbiamonews.com,Metric Media Network,Metric Media
 Jefferson City News,Missouri,jeffcitynews.com,Metric Media Network,Metric Media
+Jefferson County Times,Missouri,jeffcotimes.com,Metric Media Network,Metric Media
 KC Reporter,Missouri,kcreporter.com,Metric Media Network,Metric Media
 NE Kansas City News,Missouri,nekansascitynews.com,Metric Media Network,Metric Media
 NE Missouri News,Missouri,nemissourinews.com,Metric Media Network,Metric Media
@@ -567,28 +564,28 @@ St. Louis Reporter,Missouri,stlouisreporter.com,Metric Media Network,Metric Medi
 WC Missouri News,Missouri,wcmissourinews.com,Metric Media Network,Metric Media
 West STL News,Missouri,weststlnews.com,Metric Media Network,Metric Media
 West STL News,Missouri,stlwestnews.com,Metric Media Network,Metric Media
-Jefferson County Times,Missouri,jeffcotimes.com,Metric Media Network,Metric Media
 MO Business Daily,Missouri,mobusinessdaily.com,Metric Media Network,Metro Business Network
+St. Louis Record,Missouri,stlrecord.com,Metric Media Network,Record
 Big Sky Times,Montana,bigskytimes.com,Metric Media Network,Metric Media
 Central Montana Times,Montana,centralmontanatimes.com,Metric Media Network,Metric Media
 Glacier Country News,Montana,glaciercountrynews.com,Metric Media Network,Metric Media
 Northeast Montana News,Montana,nemontananews.com,Metric Media Network,Metric Media
+Northwest Montana News,Montana,nwmontananews.com,Metric Media Network,Metric Media
 SE Montana News,Montana,semontananews.com,Metric Media Network,Metric Media
 Southwest Montana News,Montana,swmontanatimes.com,Metric Media Network,Metric Media
-Northwest Montana News,Montana,nwmontananews.com,Metric Media Network,Metric Media
-MT Business Daily,Montana,mtbusinessdaily.com,Metric Media Network,Metro Business Network
 Yellowstone Times,Montana,yellowstonetimes.com,Metric Media Network,Metric Media
+MT Business Daily,Montana,mtbusinessdaily.com,Metric Media Network,Metro Business Network
 Cornhusker State News,Nebraska,cornhuskerstatenews.com,Metric Media Network,Metric Media
 EC Nebraska News,Nebraska,ecnebraskanews.com,Metric Media Network,Metric Media
 NE Nebraska News,Nebraska,nenebraskanews.com,Metric Media Network,Metric Media
 Nebraska Panhandle News,Nebraska,nepanhandlenews.com,Metric Media Network,Metric Media
 North Omaha Times,Nebraska,northomahatimes.com,Metric Media Network,Metric Media
+Omaha Record,Nebraska,omahacitywire.com,Metric Media Network,Metric Media
 Omaha Record,Nebraska,omaharecord.com,Metric Media Network,Metric Media
 SC Nebraska News,Nebraska,scnebraskanews.com,Metric Media Network,Metric Media
 SE Nebraska News,Nebraska,senebraskanews.com,Metric Media Network,Metric Media
 Sandhills Today,Nebraska,sandhillstoday.com,Metric Media Network,Metric Media
 South Omaha Times,Nebraska,southomahatimes.com,Metric Media Network,Metric Media
-Omaha Record,Nebraska,omahacitywire.com,Metric Media Network,Metric Media
 Nebraska Business Daily,Nebraska,nebraskabusinessdaily.com,Metric Media Network,Metro Business Network
 Eagle Valley Times,Nevada,eaglevalleytimes.com,Metric Media Network,Metric Media
 Las Vegas Record,Nevada,lasvegasrecord.com,Metric Media Network,Metric Media
@@ -605,12 +602,13 @@ Concord Ledger,New Hampshire,concordledger.com,Metric Media Network,Metric Media
 Dartmouth Times,New Hampshire,dartmouthtimes.com,Metric Media Network,Metric Media
 Granite State Times,New Hampshire,granitestatetimes.com,Metric Media Network,Metric Media
 Hillsborough Sun,New Hampshire,hillsboroughsun.com,Metric Media Network,Metric Media
+Lake Region News,New Hampshire,lakeregionnews.com,Metric Media Network,Metric Media
 North Country Reporter,New Hampshire,northcountryreporter.com,Metric Media Network,Metric Media
 Rockingham Times,New Hampshire,rockinghamtimes.com,Metric Media Network,Metric Media
 SW New Hampshire News,New Hampshire,swnewhampshirenews.com,Metric Media Network,Metric Media
 Strafford News,New Hampshire,straffordnews.com,Metric Media Network,Metric Media
-Lake Region News,New Hampshire,lakeregionnews.com,Metric Media Network,Metric Media
 NH Business Daily,New Hampshire,nhbusinessdaily.com,Metric Media Network,Metro Business Network
+Atlantic County Times,New Jersey,atlanticcotimes.com,Metric Media Network,Metric Media
 Burlington Review,New Jersey,burlingtonreview.com,Metric Media Network,Metric Media
 Garden State Times,New Jersey,gardenstatetimes.com,Metric Media Network,Metric Media
 Gloucester Today,New Jersey,gloucestertoday.com,Metric Media Network,Metric Media
@@ -632,19 +630,19 @@ South Jersey Sun,New Jersey,southjerseysun.com,Metric Media Network,Metric Media
 South Middlesex Times,New Jersey,southmiddlesextimes.com,Metric Media Network,Metric Media
 Union County Review,New Jersey,unioncountyreview.com,Metric Media Network,Metric Media
 West Essex News,New Jersey,westessexnews.com,Metric Media Network,Metric Media
-Atlantic County Times,New Jersey,atlanticcotimes.com,Metric Media Network,Metric Media
 NJ Business Daily,New Jersey,njbusinessdaily.com,Metric Media Network,Metro Business Network
+ABQ Times,New Mexico,abqtimes.com,Metric Media Network,Metric Media
 East New Mexico News,New Mexico,eastnewmexiconews.com,Metric Media Network,Metric Media
 Enchantment State News,New Mexico,enchantmentstatenews.com,Metric Media Network,Metric Media
 NE New Mexico Sun,New Mexico,nenewmexiconews.com,Metric Media Network,Metric Media
 NW Minnesota News,New Mexico,nwnewmexiconews.com,Metric Media Network,Metric Media
-Santa Fe Standard,New Mexico,santafestandard.com,Metric Media Network,Metric Media
+New Mexico Sun,New Mexico,newmexicosun.com,Metric Media Network,Metric Media
 SW New Mexico News,New Mexico,swnewmexiconews.com,Metric Media Network,Metric Media
 Sandoval News,New Mexico,sandovalnews.com,Metric Media Network,Metric Media
+Santa Fe Standard,New Mexico,santafestandard.com,Metric Media Network,Metric Media
+South ABQ News,New Mexico,southabqnews.com,Metric Media Network,Metric Media
 WC New Mexico News,New Mexico,wcnewmexiconews.com,Metric Media Network,Metric Media
 NM Business Daily,New Mexico,nmbusinessdaily.com,Metric Media Network,Metro Business Network
-South ABQ News,New Mexico,southabqnews.com,Metric Media Network,Metric Media
-ABQ Times,New Mexico,abqtimes.com,Metric Media Network,Metric Media
 Buffalo Ledger,New York,buffaloledger.com,Metric Media Network,Metric Media
 Capital District Times,New York,capitaldistricttimes.com,Metric Media Network,Metric Media
 East Hudson Valley News,New York,easthudvalleynews.com,Metric Media Network,Metric Media
@@ -658,74 +656,72 @@ Nassau Standard,New York,nassaustandard.com,Metric Media Network,Metric Media
 Niagara Leader,New York,niagaraleader.com,Metric Media Network,Metric Media
 North Country Leader,New York,northcountryleader.com,Metric Media Network,Metric Media
 Oneida Times,New York,oneidatimes.com,Metric Media Network,Metric Media
+Rochester Reporter,New York,rochesterreporter.com,Metric Media Network,Metric Media
 Rockland Reporter,New York,rocklandreporter.com,Metric Media Network,Metric Media
 SC New York News,New York,scnewyorknews.com,Metric Media Network,Metric Media
 Saratoga Standard,New York,saratogastandard.com,Metric Media Network,Metric Media
 Staten Island Reporter,New York,statenislandreporter.com,Metric Media Network,Metric Media
+Suffolk Reporter,New York,suffolkreporter.com,Metric Media Network,Metric Media
 Syracuse Sun,New York,syracusesun.com,Metric Media Network,Metric Media
 West Hudson Valley News,New York,westhudvalleynews.com,Metric Media Network,Metric Media
 West NY News,New York,westnynews.com,Metric Media Network,Metric Media
 Westchester Reporter,New York,westchesterreporter.com,Metric Media Network,Metric Media
-Rochester Reporter,New York,rochesterreporter.com,Metric Media Network,Metric Media
 NY Business Daily,New York,nybusinessdaily.com,Metric Media Network,Metro Business Network
-Suffolk Reporter,New York,suffolkreporter.com,Metric Media Network,Metric Media
-New Mexico Sun,NM,newmexicosun.com,Metric Media Network,Metric Media
-Balkan Businesswire,non-US,balkanbusinesswire.com,Metric Media Network,Local Labs
-East Lake Norman News,North Carolina,eastlakenormannews.com,Metric Media Network,Metric Media
-Chapel Hill Review,North Carolina,chapelhillreview.com,Metric Media Network,Metric Media
-EC North Carolina News,North Carolina,ecnorthcarolinanews.com,Metric Media Network,Metric Media
-East Wake Times,North Carolina,eastwaketimes.com,Metric Media Network,Metric Media
 Asheville Reporter,North Carolina,ashevillereporter.com,Metric Media Network,Metric Media
 Burlington Reporter,North Carolina,burlingtonreporter.com,Metric Media Network,Metric Media
-Hickory Sun,North Carolina,hickorysun.com,Metric Media Network,Metric Media
-High Country Times,North Carolina,highcountrytimes.com,Metric Media Network,Metric Media
-Greenville Reporter,North Carolina,greenvillereporter.com,Metric Media Network,Metric Media
-Greensboro Reporter,North Carolina,greensbororeporter.com,Metric Media Network,Metric Media
-IBX News,North Carolina,ibxnews.com,Metric Media Network,Metric Media
+Cabarrus Today,North Carolina,cabarrustoday.com,Metric Media Network,Metric Media
+Chapel Hill Review,North Carolina,chapelhillreview.com,Metric Media Network,Metric Media
+Durham Reporter,North Carolina,durhamreporter.com,Metric Media Network,Metric Media
+EC North Carolina News,North Carolina,ecnorthcarolinanews.com,Metric Media Network,Metric Media
+East Lake Norman News,North Carolina,eastlakenormannews.com,Metric Media Network,Metric Media
+East Wake Times,North Carolina,eastwaketimes.com,Metric Media Network,Metric Media
+Fayetteville Today,North Carolina,fayettevilletoday.com,Metric Media Network,Metric Media
 Foothills Review,North Carolina,foothillsreview.com,Metric Media Network,Metric Media
 Gastonia Times,North Carolina,gastoniatimes.com,Metric Media Network,Metric Media
-Fayetteville Today,North Carolina,fayettevilletoday.com,Metric Media Network,Metric Media
-Rocky Mount Today,North Carolina,rockymounttoday.com,Metric Media Network,Metric Media
-Pinehurst Today,North Carolina,pinehursttoday.com,Metric Media Network,Metric Media
-Nantahal News,North Carolina,nantahalanews.com,Metric Media Network,Metric Media
-NE Piedmont News,North Carolina,nepiedmontnews.com,Metric Media Network,Metric Media
-North Guilford News,North Carolina,northguilfordnews.com,Metric Media Network,Metric Media
-North Wake News,North Carolina,northwakenews.com,Metric Media Network,Metric Media
-North Triangle News,North Carolina,northtrianglenews.com,Metric Media Network,Metric Media
+Greensboro Reporter,North Carolina,greensbororeporter.com,Metric Media Network,Metric Media
+Greenville Reporter,North Carolina,greenvillereporter.com,Metric Media Network,Metric Media
+Hickory Sun,North Carolina,hickorysun.com,Metric Media Network,Metric Media
+High Country Times,North Carolina,highcountrytimes.com,Metric Media Network,Metric Media
+IBX News,North Carolina,ibxnews.com,Metric Media Network,Metric Media
 Johnston Reporter,North Carolina,johnstonreporter.com,Metric Media Network,Metric Media
+NC NC News,North Carolina,ncncnews.com,Metric Media Network,Metric Media
+NC Union News,North Carolina,ncunionnews.com,Metric Media Network,Metric Media
+NE Piedmont News,North Carolina,nepiedmontnews.com,Metric Media Network,Metric Media
+Nantahal News,North Carolina,nantahalanews.com,Metric Media Network,Metric Media
+North Charlotte Today,North Carolina,northcharlottetoday.com,Metric Media Network,Metric Media
+North Guilford News,North Carolina,northguilfordnews.com,Metric Media Network,Metric Media
+North Iredell News,North Carolina,northiredellnews.com,Metric Media Network,Metric Media
+North Mecklenburg News,North Carolina,northmecklenburgnews.com,Metric Media Network,Metric Media
+North Raleigh Today,North Carolina,northraleightoday.com,Metric Media Network,Metric Media
+North Triangle News,North Carolina,northtrianglenews.com,Metric Media Network,Metric Media
+North Wake News,North Carolina,northwakenews.com,Metric Media Network,Metric Media
+Old North News,North Carolina,oldnorthnews.com,Metric Media Network,Metric Media
 Onslow News,North Carolina,onslownews.com,Metric Media Network,Metric Media
 Outer Banks Times,North Carolina,outerbankstimes.com,Metric Media Network,Metric Media
-Old North News,North Carolina,oldnorthnews.com,Metric Media Network,Metric Media
-North Raleigh Today,North Carolina,northraleightoday.com,Metric Media Network,Metric Media
+Pinehurst Today,North Carolina,pinehursttoday.com,Metric Media Network,Metric Media
+Randolph County News,North Carolina,randolphcountynews.com,Metric Media Network,Metric Media
+Rocky Mount Today,North Carolina,rockymounttoday.com,Metric Media Network,Metric Media
 Rowan News,North Carolina,rowannews.com,Metric Media Network,Metric Media
-South Guilford News,North Carolina,southguilfordnews.com,Metric Media Network,Metric Media
 SE North Carolina News,North Carolina,senorthcarolinanews.com,Metric Media Network,Metric Media
-South Raleigh News,North Carolina,southraleighnews.com,Metric Media Network,Metric Media
+South Asheville News,North Carolina,southashevillenews.com,Metric Media Network,Metric Media
+South Charlotte Today,North Carolina,southcharlottetoday.com,Metric Media Network,Metric Media
+South Guilford News,North Carolina,southguilfordnews.com,Metric Media Network,Metric Media
+South Mecklenburg News,North Carolina,southmecklenburgnews.com,Metric Media Network,Metric Media
 South North Carolina News,North Carolina,southncnews.com,Metric Media Network,Metric Media
+South Raleigh News,North Carolina,southraleighnews.com,Metric Media Network,Metric Media
 South Triangle News,North Carolina,southtrianglenews.com,Metric Media Network,Metric Media
+South Winston Salem News,North Carolina,southwinstonsalemnews.com,Metric Media Network,Metric Media
 West Lake Norman News,North Carolina,westlakenormannews.com,Metric Media Network,Metric Media
 West Wake News,North Carolina,westwakenews.com,Metric Media Network,Metric Media
 Winston Salem Times,North Carolina,winstonsalemtimes.com,Metric Media Network,Metric Media
-Cabarrus Today,North Carolina,cabarrustoday.com,Metric Media Network,Metric Media
-North Charlotte Today,North Carolina,northcharlottetoday.com,Metric Media Network,Metric Media
-North Mecklenburg News,North Carolina,northmecklenburgnews.com,Metric Media Network,Metric Media
-South Charlotte Today,North Carolina,southcharlottetoday.com,Metric Media Network,Metric Media
-South Winston Salem News,North Carolina,southwinstonsalemnews.com,Metric Media Network,Metric Media
-South Asheville News,North Carolina,southashevillenews.com,Metric Media Network,Metric Media
 Yadkin Valley News,North Carolina,yadkinvalleynews.com,Metric Media Network,Metric Media
 NC Business Daily,North Carolina,ncbusinessdaily.com,Metric Media Network,Metro Business Network
-Randolph County News,North Carolina,randolphcountynews.com,Metric Media Network,Metric Media
-NC Union News,North Carolina,ncunionnews.com,Metric Media Network,Metric Media
-NC NC News,North Carolina,ncncnews.com,Metric Media Network,Metric Media
-Durham Reporter,North Carolina,durhamreporter.com,Metric Media Network,Metric Media
-North Iredell News,North Carolina,northiredellnews.com,Metric Media Network,Metric Media
-South Mecklenburg News,North Carolina,southmecklenburgnews.com,Metric Media Network,Metric Media
 Central ND News,North Dakota,centralndnews.com,Metric Media Network,Metric Media
 Fargo Standard,North Dakota,fargostandard.com,Metric Media Network,Metric Media
 ND North News,North Dakota,ndnorthnews.com,Metric Media Network,Metric Media
+NE North Dakota News,North Dakota,nenorthdakotanews.com,Metric Media Network,Metric Media
 Peace Garden News,North Dakota,peacegardennews.com,Metric Media Network,Metric Media
 Western ND News,North Dakota,westernndnews.com,Metric Media Network,Metric Media
-NE North Dakota News,North Dakota,nenorthdakotanews.com,Metric Media Network,Metric Media
 ND Business Daily,North Dakota,ndbusinessdaily.com,Metric Media Network,Metro Business Network
 Akron Reporter,Ohio,akronreporter.com,Metric Media Network,Metric Media
 Buckeye Reporter,Ohio,buckeyereporter.com,Metric Media Network,Metric Media
@@ -792,30 +788,30 @@ SE Oklahoma News,Oklahoma,seoklahomanews.com,Metric Media Network,Metric Media
 SW Oklahoma News,Oklahoma,swoklahomanews.com,Metric Media Network,Metric Media
 Sooner State News,Oklahoma,soonerstatenews.com,Metric Media Network,Metric Media
 South OKC News,Oklahoma,southokcnews.com,Metric Media Network,Metric Media
-Tulsa Standard,Oklahoma,tulsastandard.com,Metric Media Network,Metric Media
 South Tulsa Standard,Oklahoma,southtulsatoday.com,Metric Media Network,Metric Media
+Tulsa Standard,Oklahoma,tulsastandard.com,Metric Media Network,Metric Media
 OK Business Daily,Oklahoma,okbusinessdaily.com,Metric Media Network,Metro Business Network
 Beaver State News,Oregon,beaverstatenews.com,Metric Media Network,Metric Media
 Central Oregon Times,Oregon,centraloregontimes.com,Metric Media Network,Metric Media
 East Oregon News,Oregon,eastoregonnews.com,Metric Media Network,Metric Media
 East PDX Today,Oregon,eastpdxtoday.com,Metric Media Network,Metric Media
 Lane County News,Oregon,laneconews.com,Metric Media Network,Metric Media
+Mid Coast Times,Oregon,midcoasttimes.com,Metric Media Network,Metric Media
 Mid Valley Reporter,Oregon,midvalleyreporter.com,Metric Media Network,Metric Media
 North Coast Today,Oregon,northcoasttoday.com,Metric Media Network,Metric Media
 Portland Courant,Oregon,portlandcourant.com,Metric Media Network,Metric Media
 South Coast Times,Oregon,southcoasttimes.com,Metric Media Network,Metric Media
 South Oregon News,Oregon,southoregonnews.com,Metric Media Network,Metric Media
 West PDX Today,Oregon,westpdxtoday.com,Metric Media Network,Metric Media
-Mid Coast Times,Oregon,midcoasttimes.com,Metric Media Network,Metric Media
 OR Business Daily,Oregon,orbusinessdaily.com,Metric Media Network,Metro Business Network
-LGIS,Organisation,lgis.co,Metric Media Network,LGIS
-Metro Business Network,Organisation,metrobusinessnetwork.com,Metric Media Network,Franklin Archer
-Freedom Media Network,Organisation,freedommedianetwork.com,Metric Media Network,Franklin Archer
-Metric Media News,Organisation,metricmedianews.com,Metric Media Network,Metric Media
-DirecTech,Organisation,directech.co,Metric Media Network,Organisation
-"The Record, Inc. ",Organisation,therecordinc.com,Metric Media Network,Record
 Blockshopper,Organisation,blockshopper.com,Metric Media Network,Blockshopper
 Franklin Archer,Organisation,franklinarcher.com,Metric Media Network,Franklin Archer
+Freedom Media Network,Organisation,freedommedianetwork.com,Metric Media Network,Franklin Archer
+Metro Business Network,Organisation,metrobusinessnetwork.com,Metric Media Network,Franklin Archer
+LGIS,Organisation,lgis.co,Metric Media Network,LGIS
+Metric Media News,Organisation,metricmedianews.com,Metric Media Network,Metric Media
+DirecTech,Organisation,directech.co,Metric Media Network,Organisation
+"The Record, Inc.",Organisation,therecordinc.com,Metric Media Network,Record
 Altoona Times,Pennsylvania,altoonatimes.com,Metric Media Network,Metric Media
 Beaver County News,Pennsylvania,beaverconews.com,Metric Media Network,Metric Media
 Berks County News,Pennsylvania,berksconews.com,Metric Media Network,Metric Media
@@ -834,6 +830,7 @@ Happy Valley Times,Pennsylvania,happyvalleytimes.com,Metric Media Network,Metric
 Keystone Today,Pennsylvania,keystonetoday.com,Metric Media Network,Metric Media
 Laurel Highlands Today,Pennsylvania,laurelhighlandstoday.com,Metric Media Network,Metric Media
 Lawrence Times,Pennsylvania,lawrencetimes.com,Metric Media Network,Metric Media
+Lebanon News,Pennsylvania,lebanonpanews.com,Metric Media Network,Metric Media
 Lehigh Times,Pennsylvania,lehightimes.com,Metric Media Network,Metric Media
 Lower Bucks Today,Pennsylvania,lowerbuckstoday.com,Metric Media Network,Metric Media
 Luzerne Times,Pennsylvania,luzernetimes.com,Metric Media Network,Metric Media
@@ -864,14 +861,13 @@ West Central PA News,Pennsylvania,wcpanews.com,Metric Media Network,Metric Media
 West Montgomery Times,Pennsylvania,westmonttimes.com,Metric Media Network,Metric Media
 Westmoreland Review,Pennsylvania,westmorelandreview.com,Metric Media Network,Metric Media
 York County News,Pennsylvania,yorkconews.com,Metric Media Network,Metric Media
-Pennsylvania Record,Pennsylvania,pennrecord.com,Metric Media Network,Record
 Keystone Business News,Pennsylvania,keystonebusinessnews.com,Metric Media Network,Metro Business Network
-Lebanon News,Pennsylvania,lebanonpanews.com,Metric Media Network,Metric Media
+Pennsylvania Record,Pennsylvania,pennrecord.com,Metric Media Network,Record
 Manila Business Daily,Phillipines,manilabusinessdaily.com,Metric Media Network,Metro Business Network
+Kent County Times,Rhode Island,kentcotimes.com,Metric Media Network,Metric Media
 Ocean State Today,Rhode Island,oceanstatetoday.com,Metric Media Network,Metric Media
 Providence Reporter,Rhode Island,providencereporter.com,Metric Media Network,Metric Media
 South County Times,Rhode Island,southcotimes.com,Metric Media Network,Metric Media
-Kent County Times,Rhode Island,kentcotimes.com,Metric Media Network,Metric Media
 RI Business Daily,Rhode Island,ribusinessdaily.com,Metric Media Network,Metro Business Network
 Aiken Times,South Carolina,aikentimes.com,Metric Media Network,Metric Media
 Berkeley Leader,South Carolina,berkeleyleader.com,Metric Media Network,Metric Media
@@ -895,12 +891,8 @@ Northeast South Dakota News,South Dakota,nesdnews.com,Metric Media Network,Metri
 Rushmore State News,South Dakota,rushmorestatenews.com,Metric Media Network,Metric Media
 Sioux Empire Today,South Dakota,siouxempiretoday.com,Metric Media Network,Metric Media
 Southeast South Dakota News,South Dakota,sesdnews.com,Metric Media Network,Metric Media
-SD Business Daily,South Dakota,sdbusinessdaily.com,Metric Media Network,Metro Business Network
 Western SD News,South Dakota,westernsdnews.com,Metric Media Network,Metric Media
-McHenry Times,State: Illinois,mchenrytimes.com,Metric Media Network,LGIS
-West Loop Today,State: Illinois,westlooptoday.com,Metric Media Network,Franklin Archer
-Louisiana Record,State: Louisiana,louisianarecord.com,Metric Media Network,Record
-St. Louis Record,State: Missouri,stlrecord.com,Metric Media Network,Record
+SD Business Daily,South Dakota,sdbusinessdaily.com,Metric Media Network,Metro Business Network
 Clarksville Times,Tennessee,clarksvilletimes.com,Metric Media Network,Metric Media
 Hamilton Reporter,Tennessee,hamiltonreporter.com,Metric Media Network,Metric Media
 Johnson City Times,Tennessee,johnsoncitytimes.com,Metric Media Network,Metric Media
@@ -926,94 +918,75 @@ Volunteer State News,Tennessee,volunteerstatenews.com,Metric Media Network,Metri
 WIlliamson News,Tennessee,williamsonnews.com,Metric Media Network,Metric Media
 TN Business Daily,Tennessee,tnbusinessdaily.com,Metric Media Network,Metro Business Network
 Midland Times,Texas,midlandtimes.com,Metric Media Network,Franklin Archer
+Abilene Times,Texas,abilenetimes.com,Metric Media Network,Metric Media
 Amarillo Gazette,Texas,amarillogazette.com,Metric Media Network,Metric Media
-East Houston News,Texas,easthoustonnews.com,Metric Media Network,Metric Media
 Austin News,Texas,austintxnews.com,Metric Media Network,Metric Media
-Corpus Christi Sun,Texas,corpuschristisun.com,Metric Media Network,Metric Media
-Collin Times,Texas,collintimes.com,Metric Media Network,Metric Media
-EC Texas News,Texas,ectexasnews.com,Metric Media Network,Metric Media
-El Paso Standard,Texas,elpasostandard.com,Metric Media Network,Metric Media
 Central TX News,Texas,centraltxnews.com,Metric Media Network,Metric Media
-Hill Country Chronicle,Texas,hillcountrychronicle.com,Metric Media Network,Metric Media
-Houston Republic,Texas,houstonrepublic.com,Metric Media Network,Metric Media
-Grayson Times,Texas,graysontimes.com,Metric Media Network,Metric Media
-Ft Worth Times,Texas,ftworthtimes.com,Metric Media Network,Metric Media
-Forest Country News,Texas,forestcountrynews.com,Metric Media Network,Metric Media
-Far West Texas News,Texas,farwesttxnews.com,Metric Media Network,Metric Media
 Centroplex News,Texas,centroplexnews.com,Metric Media Network,Metric Media
-North Coastal News,Texas,northcoastalnews.com,Metric Media Network,Metric Media
-Nortex Times,Texas,nortextimes.com,Metric Media Network,Metric Media
-North Houston News,Texas,northhoustonnews.com,Metric Media Network,Metric Media
-Lonestar Standard,Texas,lonestarstandard.com,Metric Media Network,Metric Media
-Lubbock Times,Texas,lubbocktimes.com,Metric Media Network,Metric Media
+Collin Times,Texas,collintimes.com,Metric Media Network,Metric Media
+Concho Valley News,Texas,conchovalleynews.com,Metric Media Network,Metric Media
+Corpus Christi Sun,Texas,corpuschristisun.com,Metric Media Network,Metric Media
+Dallas City Wire,Texas,dallascitywire.com,Metric Media Network,Metric Media
+EC Texas News,Texas,ectexasnews.com,Metric Media Network,Metric Media
+East DFW News,Texas,eastdfwnews.com,Metric Media Network,Metric Media
+East Houston News,Texas,easthoustonnews.com,Metric Media Network,Metric Media
+East RGV News,Texas,eastrgvnews.com,Metric Media Network,Metric Media
+El Paso Standard,Texas,elpasostandard.com,Metric Media Network,Metric Media
+Far West Texas News,Texas,farwesttxnews.com,Metric Media Network,Metric Media
+Forest Country News,Texas,forestcountrynews.com,Metric Media Network,Metric Media
+Ft Worth Times,Texas,ftworthtimes.com,Metric Media Network,Metric Media
+Grayson Times,Texas,graysontimes.com,Metric Media Network,Metric Media
+Hill Country Chronicle,Texas,hillcountrychronicle.com,Metric Media Network,Metric Media
+Houston Daily,Texas,houstondaily.com,Metric Media Network,Metric Media
+Houston Republic,Texas,houstonrepublic.com,Metric Media Network,Metric Media
 Laredo Times,Texas,laredotimes.com,Metric Media Network,Metric Media
+Lonestar Standard,Texas,lonestarstandard.com,Metric Media Network,Metric Media
 Longview Times,Texas,longviewtimes.com,Metric Media Network,Metric Media
-NW Houston News,Texas,nwhoustonnews.com,Metric Media Network,Metric Media
-North TX News,Texas,northtxnews.com,Metric Media Network,Metric Media
-Panhandle Times,Texas,panhandletimes.com,Metric Media Network,Metric Media
+Lubbock Times,Texas,lubbocktimes.com,Metric Media Network,Metric Media
 Mid City Times,Texas,midcitytimes.com,Metric Media Network,Metric Media
 NE Dallas News,Texas,nedallasnews.com,Metric Media Network,Metric Media
+NE Tarrant News,Texas,netarrantnews.com,Metric Media Network,Metric Media
+NW Houston News,Texas,nwhoustonnews.com,Metric Media Network,Metric Media
+Nortex Times,Texas,nortextimes.com,Metric Media Network,Metric Media
+North Austin News,Texas,northaustinnews.com,Metric Media Network,Metric Media
+North Coastal News,Texas,northcoastalnews.com,Metric Media Network,Metric Media
+North Houston News,Texas,northhoustonnews.com,Metric Media Network,Metric Media
 North San Antonio News,Texas,northsanantonionews.com,Metric Media Network,Metric Media
+North TX News,Texas,northtxnews.com,Metric Media Network,Metric Media
+Panhandle Times,Texas,panhandletimes.com,Metric Media Network,Metric Media
 Petroplex News,Texas,petroplexnews.com,Metric Media Network,Metric Media
-South DFW News,Texas,southdfwnews.com,Metric Media Network,Metric Media
-SE Dallas News,Texas,sedallasnews.com,Metric Media Network,Metric Media
 SC Texas News,Texas,sctexasnews.com,Metric Media Network,Metric Media
-South Galveston News,Texas,southgalvestonnews.com,Metric Media Network,Metric Media
-Waco Reporter,Texas,wacoreporter.com,Metric Media Network,Metric Media
-Upper East Texas News,Texas,uppereasttx.com,Metric Media Network,Metric Media
-South San Antonio News,Texas,southsanantonionews.com,Metric Media Network,Metric Media
-San Antonio Corridor News,Texas,sacorridornews.com,Metric Media Network,Metric Media
+SE Dallas News,Texas,sedallasnews.com,Metric Media Network,Metric Media
+SE Houston News,Texas,sehoustonnews.com,Metric Media Network,Metric Media
+SE Texas News,Texas,setexastimes.com,Metric Media Network,Metric Media
 SW Dallas News,Texas,swdallasnews.com,Metric Media Network,Metric Media
-Tyler Reporter,Texas,tylerreporter.com,Metric Media Network,Metric Media
 SW Houston News,Texas,swhoustonnews.com,Metric Media Network,Metric Media
-Winter Garden Today,Texas,wintergardentoday.com,Metric Media Network,Metric Media
-West RGV News,Texas,westrgvnews.com,Metric Media Network,Metric Media
-West DFW News,Texas,westdfwnews.com,Metric Media Network,Metric Media
-WC Texas News,Texas,wctexasnews.com,Metric Media Network,Metric Media
-Houston Daily,Texas,houstondaily.com,Metric Media Network,Metric Media
+San Antonio Corridor News,Texas,sacorridornews.com,Metric Media Network,Metric Media
+San Antonio Standard,Texas,sanantoniostandard.com,Metric Media Network,Metric Media
+South Brazoria News,Texas,southbrazorianews.com,Metric Media Network,Metric Media
+South DFW News,Texas,southdfwnews.com,Metric Media Network,Metric Media
+South Galveston News,Texas,southgalvestonnews.com,Metric Media Network,Metric Media
+South San Antonio News,Texas,southsanantonionews.com,Metric Media Network,Metric Media
 Texas Business Coalition,Texas,texasbusinesscoalition.com,Metric Media Network,Metric Media
+Texas Realty News,Texas,txrealtynews.com,Metric Media Network,Metric Media
+Tyler Reporter,Texas,tylerreporter.com,Metric Media Network,Metric Media
+Upper East Texas News,Texas,uppereasttx.com,Metric Media Network,Metric Media
+WC Texas News,Texas,wctexasnews.com,Metric Media Network,Metric Media
+Waco Reporter,Texas,wacoreporter.com,Metric Media Network,Metric Media
+West DFW News,Texas,westdfwnews.com,Metric Media Network,Metric Media
+West Houston News,Texas,westhoustonnews.com,Metric Media Network,Metric Media
+West RGV News,Texas,westrgvnews.com,Metric Media Network,Metric Media
+West Texas News,Texas,westtxnews.com,Metric Media Network,Metric Media
+Winter Garden Today,Texas,wintergardentoday.com,Metric Media Network,Metric Media
+TX Business Daily,Texas,txbusinessdaily.com,Metric Media Network,Metro Business Network
+SE Texas Record,Texas,setexasrecord.com,Metric Media Network,Record
 Texas Recovery Alliance,Texas,texasrecoveryalliance.com,Metric Media Network,Texas Business Coalition
 Austin Journal,Texas,austinjournal.com,Metric Media Network,
-SE Texas Record,Texas,setexasrecord.com,Metric Media Network,Record
-South Brazoria News,Texas,southbrazorianews.com,Metric Media Network,Metric Media
-Abilene Times,Texas,abilenetimes.com,Metric Media Network,Metric Media
-East DFW News,Texas,eastdfwnews.com,Metric Media Network,Metric Media
-TX Business Daily,Texas,txbusinessdaily.com,Metric Media Network,Metro Business Network
-North Austin News,Texas,northaustinnews.com,Metric Media Network,Metric Media
-NE Tarrant News,Texas,netarrantnews.com,Metric Media Network,Metric Media
-East RGV News,Texas,eastrgvnews.com,Metric Media Network,Metric Media
-Dallas City Wire,Texas,dallascitywire.com,Metric Media Network,Metric Media
-Concho Valley News,Texas,conchovalleynews.com,Metric Media Network,Metric Media
-SE Texas News,Texas,setexastimes.com,Metric Media Network,Metric Media
-San Antonio Standard,Texas,sanantoniostandard.com,Metric Media Network,Metric Media
-SE Houston News,Texas,sehoustonnews.com,Metric Media Network,Metric Media
-West Houston News,Texas,westhoustonnews.com,Metric Media Network,Metric Media
-West Texas News,Texas,westtxnews.com,Metric Media Network,Metric Media
-Texas Realty News,TX,txrealtynews.com,Metric Media Network,Metric Media
 CRT Central,US,crtcentral.com,Metric Media Network,American Schools Coalition
-Current Science Daily,US,currentsciencedaily.com,Metric Media Network,Franklin Archer
-Patient Daily,US,patientdaily.com,Metric Media Network,Franklin Archer
-The Neighborhood Guardian,US,theneighborhoodguardian.com,Metric Media Network,Metric Media
-American Pharmacy News,US,americanpharmacynews.com,Metric Media Network,Local Labs
-Crop Protection News,US,cropprotectionnews.com,Metric Media Network,Local Labs
-EP Newswire,US,epnewswire.com,Metric Media Network,Local Labs
-FDA Health News,US,fdahealthnews.com,Metric Media Network,Local Labs
-FDA Reporter,US,fdareporter.com,Metric Media Network,Local Labs
-HR Daily Wire,US,hrdailywire.com,Metric Media Network,Local Labs
-Mega Dealer News,US,megadealernews.com,Metric Media Network,Local Labs
-TI News Daily,US,tinewsdaily.com,Metric Media Network,Local Labs
-Power News Wire,US,powernewswire.com,Metric Media Network,Local Labs
-Wealth Management Wire,US,wealthmanagementwire.com,Metric Media Network,Local Labs
-Property Insurance Wire,US,propertyinsurancewire.com,Metric Media Network,Local Labs
-Hotels Together,US,hotelstogether.com,Metric Media Network,Metric Media
-Vote Newswire,US,votenewswire.com,Metric Media Network,Metric Media
-Workplace Recovery Alliance,US,workplacerecoveryalliance.com,Metric Media Network,Metric Media
-Kinute,US,kinute.com,Metric Media Network,Metric Media
-Education Daily Wire,US,educationdailywire.com,Metric Media Network,Metric Media
-DOL Newswire,US,dolnewswire.com,Metric Media Network,Federal News Network
 Commerce Newswire,US,commercenewswire.com,Metric Media Network,Federal News Network
-DOL Newswire,US,doenewswire.com,Metric Media Network,Federal News Network
 DOJ Newswire,US,dojnewswire.com,Metric Media Network,Federal News Network
+DOL Newswire,US,doenewswire.com,Metric Media Network,Federal News Network
+DOL Newswire,US,dolnewswire.com,Metric Media Network,Federal News Network
 EPA Newswire,US,epanewswire.com,Metric Media Network,Federal News Network
 Homeland Newswire,US,homelandnewswire.com,Metric Media Network,Federal News Network
 Interior Newswire,US,interiornewswire.com,Metric Media Network,Federal News Network
@@ -1021,17 +994,38 @@ States Newswire,US,statenewswire.com,Metric Media Network,Federal News Network
 USDA Newswire,US,usdanewswire.com,Metric Media Network,Federal News Network
 USDOT Newswire,US,usdotnewswire.com,Metric Media Network,Federal News Network
 American Catholic Tribune,US,americancatholictribune.com,Metric Media Network,Franklin Archer
-American Security News,US,americansecuritynews.com,Metric Media Network,Local Labs
 Catholic Mass Live,US,catholicmasslive.com,Metric Media Network,Franklin Archer
-Tobacco Newswire,US,tobacconewswire.com,Metric Media Network,Local Labs
+Current Science Daily,US,currentsciencedaily.com,Metric Media Network,Franklin Archer
+Patient Daily,US,patientdaily.com,Metric Media Network,Franklin Archer
+American Pharmacy News,US,americanpharmacynews.com,Metric Media Network,Local Labs
+American Security News,US,americansecuritynews.com,Metric Media Network,Local Labs
+Crop Protection News,US,cropprotectionnews.com,Metric Media Network,Local Labs
+EP Newswire,US,epnewswire.com,Metric Media Network,Local Labs
+FDA Health News,US,fdahealthnews.com,Metric Media Network,Local Labs
+FDA Reporter,US,fdareporter.com,Metric Media Network,Local Labs
+HR Daily Wire,US,hrdailywire.com,Metric Media Network,Local Labs
 Higher Education Tribune,US,highereducationtribune.com,Metric Media Network,Local Labs
-The Current,US,thecurrent.us,Metric Media Network,Metric Media
-Sentries,US,sentries.net,Metric Media Network,Metric Media
+Mega Dealer News,US,megadealernews.com,Metric Media Network,Local Labs
+Power News Wire,US,powernewswire.com,Metric Media Network,Local Labs
+Property Insurance Wire,US,propertyinsurancewire.com,Metric Media Network,Local Labs
+TI News Daily,US,tinewsdaily.com,Metric Media Network,Local Labs
+Tobacco Newswire,US,tobacconewswire.com,Metric Media Network,Local Labs
+Wealth Management Wire,US,wealthmanagementwire.com,Metric Media Network,Local Labs
 Campaigns Daily,US,campaignsdaily.com,Metric Media Network,Metric Media
-Prep News Wire,US,prepnewswire.com,Metric Media Network,Metric Media
+Education Daily Wire,US,educationdailywire.com,Metric Media Network,Metric Media
 Farm Insurance News,US,farminsurancenews.com,Metric Media Network,Metric Media
+Flexible Work News,US,flexibleworknews.com,Metric Media Network,Metric Media
+Hotels Together,US,hotelstogether.com,Metric Media Network,Metric Media
+Insurance Rate Reporter,US,insuranceratereporter.com,Metric Media Network,Metric Media
+Kinute,US,kinute.com,Metric Media Network,Metric Media
 Koinesúnē,US,koinesune.com,Metric Media Network,Metric Media
-Interior Newswire,US,interiornewswire.com,Metric Media Network,Federal News Network
+Prep News Wire,US,prepnewswire.com,Metric Media Network,Metric Media
+Sentries,US,sentries.net,Metric Media Network,Metric Media
+The Current,US,thecurrent.us,Metric Media Network,Metric Media
+The Neighborhood Guardian,US,theneighborhoodguardian.com,Metric Media Network,Metric Media
+Vote Newswire,US,votenewswire.com,Metric Media Network,Metric Media
+Workplace Recovery Alliance,US,workplacerecoveryalliance.com,Metric Media Network,Metric Media
+Legal Newsline,US,legalnewsline.com,Metric Media Network,Record
 Beehive State News,Utah,beehivestatenews.com,Metric Media Network,Metric Media
 Central Utah News,Utah,centralutahnews.com,Metric Media Network,Metric Media
 Davis Times,Utah,davistimes.com,Metric Media Network,Metric Media
@@ -1047,9 +1041,9 @@ Utah Business Daily,Utah,utbusinessdaily.com,Metric Media Network,Metro Business
 Burlington Standard,Vermont,burlingtonstandard.com,Metric Media Network,Metric Media
 Green Mountain Times,Vermont,greenmountaintimes.com,Metric Media Network,Metric Media
 NC Vermont News,Vermont,ncvermontnews.com,Metric Media Network,Metric Media
+NE Vermont News,Vermont,nevermontnews.com,Metric Media Network,Metric Media
 SC Vermont News,Vermont,scvermontnews.com,Metric Media Network,Metric Media
 South Vermont News,Vermont,southvermontnews.com,Metric Media Network,Metric Media
-NE Vermont News,Vermont,nevermontnews.com,Metric Media Network,Metric Media
 VT Business Daily,Vermont,vtbusinessdaily.com,Metric Media Network,Metro Business Network
 Central Nova News,Virginia,centralnovanews.com,Metric Media Network,Metric Media
 Central Shenandoah News,Virginia,centralshenandoahnews.com,Metric Media Network,Metric Media
@@ -1090,6 +1084,7 @@ North Snohomish News,Washington,northsnohomishnews.com,Metric Media Network,Metr
 Olympic Times,Washington,olympictimes.com,Metric Media Network,Metric Media
 Pierce Today,Washington,piercetoday.com,Metric Media Network,Metric Media
 SE Washington News,Washington,sewashingtonnews.com,Metric Media Network,Metric Media
+Seattle City Wire,Washington,seattlecitywire.com,Metric Media Network,Metric Media
 South King News,Washington,southkingnews.com,Metric Media Network,Metric Media
 South Snohomish News,Washington,southsnohomishnews.com,Metric Media Network,Metric Media
 South Sound Times,Washington,southsoundtimes.com,Metric Media Network,Metric Media
@@ -1101,7 +1096,6 @@ Washington Isle News,Washington,waislenews.com,Metric Media Network,Metric Media
 Wenatchee Times,Washington,wenatcheetimes.com,Metric Media Network,Metric Media
 Yakima Times,Washington,yakimatimes.com,Metric Media Network,Metric Media
 WA Business Daily,Washington,wabusinessdaily.com,Metric Media Network,Metro Business Network
-Seattle City Wire,Washington,seattlecitywire.com,Metric Media Network,Metric Media
 DC Business Daily,Washington DC,dcbusinessdaily.com,Metric Media Network,Metro Business Network
 Allegheny Highlands Today,West Virginia,alleghenyhighlandstoday.com,Metric Media Network,Metric Media
 Bluestone News,West Virginia,bluestonenews.com,Metric Media Network,Metric Media
@@ -1114,8 +1108,9 @@ North Panhandle Times,West Virginia,northpanhandletimes.com,Metric Media Network
 Ohio Valley Times,West Virginia,ohiovalleytimes.com,Metric Media Network,Metric Media
 Southern West Virginia News,West Virginia,southernwvnews.com,Metric Media Network,Metric Media
 WV Heartland News,West Virginia,wvheartlandnews.com,Metric Media Network,Metric Media
-West Virginia Record,West Virginia,wvrecord.com,Metric Media Network,Record
 WV Business Daily,West Virginia,wvbusinessdaily.com,Metric Media Network,Metro Business Network
+West Virginia Record,West Virginia,wvrecord.com,Metric Media Network,Record
+Wisconsin Catholic Tribune,Wisconsin,wicatholictribune.com,Metric Media Network,Franklin Archer
 Central Wisconsin News,Wisconsin,centralwisconsinnews.com,Metric Media Network,Metric Media
 Chippewa Valley Times,Wisconsin,chippewavalleytimes.com,Metric Media Network,Metric Media
 EC Wisconsin News,Wisconsin,ecwisconsinnews.com,Metric Media Network,Metric Media
@@ -1141,7 +1136,6 @@ Washington County Times,Wisconsin,washingtoncotimes.com,Metric Media Network,Met
 Waukesha County Times,Wisconsin,waukeshatimes.com,Metric Media Network,Metric Media
 Whitewater Times,Wisconsin,whitewatertimes.com,Metric Media Network,Metric Media
 WI Business Daily,Wisconsin,wibusinessdaily.com,Metric Media Network,Metro Business Network
-Wisconsin Catholic Tribune,Wisconsin,wicatholictribune.com,Metric Media Network,Franklin Archer
 Central Wyoming News,Wyoming,centralwynews.com,Metric Media Network,Metric Media
 Equality State News,Wyoming,equalitystatenews.com,Metric Media Network,Metric Media
 NE Wyoming News,Wyoming,newyomingnews.com,Metric Media Network,Metric Media
@@ -1149,3 +1143,8 @@ NW Wyoming News,Wyoming,nwwyomingnews.com,Metric Media Network,Metric Media
 SE Wyoming News,Wyoming,sewyomingnews.com,Metric Media Network,Metric Media
 SW Wyoming News,Wyoming,swwyomingnews.com,Metric Media Network,Metric Media
 WY Business Daily,Wyoming,wybusinessdaily.com,Metric Media Network,Metro Business Network
+Maghreb Newswire,continent: Africa,maghrebnewswire.com,Metric Media Network,Local Labs
+Gulf News Journal,continent: Asia,gulfnewsjournal.com,Metric Media Network,Local Labs
+CISTRAN Finance,continent: Eurasia & Afroasia,cistranfinance.com,Metric Media Network,Local Labs
+Balkan Businesswire,continent: Europe,balkanbusinesswire.com,Metric Media Network,Local Labs
+Latin Business Daily,continent: Latin America,latinbusinessdaily.com,Metric Media Network,Metro Business Network
