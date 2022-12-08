@@ -22,4 +22,4 @@ See something missing? Think we should add something? Have copies of papers that
 
 If you use this dataset, please tell us about it [here](pb2616+local@columbia.edu).
 
-If you use this data, please cite the Tow Center for Digital Journalism at Columbia University and link to this report.
+If you use this data, please cite the Tow Center for Digital Journalism at Columbia University and link to this [report](https://www.cjr.org/tow_center/pink-slime-network-gets-1-6m-election-boost-from-pacs-backed-by-oil-and-gas-shipping-magnates.php).
