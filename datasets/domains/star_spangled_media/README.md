@@ -1,0 +1,1 @@
+- [Top Democratic lawyer backs mysterious news site](https://www.semafor.com/article/07/07/2024/top-democratic-lawyer-backs-mysterious-news-site)
