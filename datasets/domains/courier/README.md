@@ -1,3 +1,4 @@
 - [20200522: OpenSecrets: 'Dark money' networks hide political agendas behind fake news sites](https://www.opensecrets.org/news/2020/05/dark-money-networks-fake-news-sites/)
 - [20210223: Vox: Inside the new $65 million push from progressives to compete with conservative media](https://www.vox.com/recode/22296522/acronym-democrats-courier-progressive-news-tara-mcgowan-project-for-good-information)
 - [20221001: Wired: The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine](https://www.wired.com/story/the-election-swinging-facebook-fueled-get-out-the-vote-machine/)
+- [20221122: The Progressive News Network, Courier, Keeps a Foot in Eight Swing States. This local Michigan Newsroom is one of them.](https://www.cjr.org/tow_center/the-progressive-news-network-courier-keeps-a-foot-in-eight-swing-states-this-local-michigan-newsroom-is-one-of-them.php)
