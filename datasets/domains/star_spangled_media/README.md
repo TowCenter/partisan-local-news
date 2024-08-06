@@ -1,1 +1,1 @@
-- [20240707: Top Democratic lawyer backs mysterious news site](https://www.semafor.com/article/07/07/2024/top-democratic-lawyer-backs-mysterious-news-site)
+- [20240707: Semafor: Top Democratic lawyer backs mysterious news site](https://www.semafor.com/article/07/07/2024/top-democratic-lawyer-backs-mysterious-news-site)
